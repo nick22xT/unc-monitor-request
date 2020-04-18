@@ -1,6 +1,6 @@
-package con.unc.monitor.model;
+package com.unc.monitor.model;
 
-import con.unc.monitor.request.MonitorRequest;
+import com.unc.monitor.request.MonitorRequest;
 
 import java.util.HashMap;
 import java.util.Map;
